@@ -119,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="25" />
     <option name="y" value="-25" />
     <option name="width" value="1750" />
@@ -192,7 +192,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
